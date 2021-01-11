@@ -175,7 +175,7 @@ class _BubbleSortBarsState extends State<BubbleSortBars> {
           }),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       bottomNavigationBar: Container(
-        height: MediaQuery.of(context).size.height / 6,
+        height: MediaQuery.of(context).size.height / 4.5,
         child: Material(
           elevation: 30,
           color: Colors.white,
