@@ -170,7 +170,7 @@ class _ToothpickPatternState extends State<ToothpickPattern> {
       bottomNavigationBar: Material(
         elevation: 10,
         child: Container(
-          height: MediaQuery.of(context).size.height / 10,
+          height: MediaQuery.of(context).size.height / 7,
           color: Colors.white,
           child: Column(
             children: <Widget>[
